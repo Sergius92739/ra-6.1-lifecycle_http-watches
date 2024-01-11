@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ra-6.1-lifecycle_http-watches/static/css/main.9851cdd3.css",
+    "main.js": "/ra-6.1-lifecycle_http-watches/static/js/main.c67b4725.js",
+    "static/js/787.48378109.chunk.js": "/ra-6.1-lifecycle_http-watches/static/js/787.48378109.chunk.js",
+    "static/media/Inter.ttf": "/ra-6.1-lifecycle_http-watches/static/media/Inter.9cd7588f47651215d52f.ttf",
+    "static/media/1639326652_21-papik-pro-p-tsiferblat-klipart-22.png": "/ra-6.1-lifecycle_http-watches/static/media/1639326652_21-papik-pro-p-tsiferblat-klipart-22.72b83f3b9d03aab40edd.png",
+    "index.html": "/ra-6.1-lifecycle_http-watches/index.html",
+    "main.9851cdd3.css.map": "/ra-6.1-lifecycle_http-watches/static/css/main.9851cdd3.css.map",
+    "main.c67b4725.js.map": "/ra-6.1-lifecycle_http-watches/static/js/main.c67b4725.js.map",
+    "787.48378109.chunk.js.map": "/ra-6.1-lifecycle_http-watches/static/js/787.48378109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9851cdd3.css",
+    "static/js/main.c67b4725.js"
+  ]
+}
