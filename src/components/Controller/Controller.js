@@ -11,7 +11,7 @@ export default function Controller() {
   }
 
   const onDelete = (id) => {
-    setList(list.filter((el) => el.id !== id))
+    setList(list.filter(el => el.id !== id));
   }
   
   return (
